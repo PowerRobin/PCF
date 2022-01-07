@@ -2,8 +2,11 @@ Steps to use the PCF in your PowerApps-Projects
 
 If you have any questions feel free to contact me through YT-comments or via linkedin: https://www.linkedin.com/in/robin-rosengr%C3%BCn-ab35091b6/
 
-I explain everything in detail in a YouTube-video, probably you should check that out as well:
-You can find the component as well at the PCF Gallery: 
+I explain everything in detail in a YouTube-video, probably you should check that out as well: https://www.youtube.com/watch?v=-jMQkVxKdoo
+You can find the component as well at the PCF Gallery: https://pcf.gallery/select-svg/
+
+The component is based on another component by Jens Christian Schrøder, which showed me how to load SVG code and get access to the different objects in the SVG code https://pcf.gallery/pcf-svg-control/
+
 When you import the solution, you'll also find a Canvas App called "Select SVG demo" where you'll find some good examples how to use the component
 
 1. Enable PCF-components in your environment in the Admin-center
